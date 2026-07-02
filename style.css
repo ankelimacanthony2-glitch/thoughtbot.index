@@ -705,10 +705,10 @@
   font-size: 16.6px;
   font-family: "PPMori", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.ost {
+.jut {
   text-decoration: 1.6px underline dotted;
 }
-.ost:hover {
+.jut:hover {
   text-decoration: none;
 }
 .ond {
@@ -718,10 +718,10 @@
 .ond:hover {
   text-decoration: none;
 }
-.ord {
+.bored {
   text-decoration: 1.6px underline dotted;
 }
-.ord:hover {
+.bored:hover {
   text-decoration: 0.01px underline dotted;
 }
 .oth {
