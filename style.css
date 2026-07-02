@@ -90,7 +90,7 @@
   color: #ffc726;
 }
 /* button */
-.butin {
+.button {
   width: 220px;
   height: 45px;
   border: 2px solid #201313;
@@ -104,7 +104,7 @@
   margin-left: 85px;
 }
 
-.butin:hover {
+.button:hover {
   outline: 3px solid #ce2d2d;
   background-color: #ce2d2d;
 }
@@ -133,11 +133,11 @@
   line-height: 40px;
   color: #eae6e4;
 }
-.pan {
+.fpan {
   color: #ffe7a3;
   text-decoration: underline;
 }
-.pan:hover {
+.fpan:hover {
   color: #ffc726;
   text-decoration: none;
 }
@@ -225,30 +225,30 @@
   text-decoration: none;
 }
 /* 2nd section */
-.play {
+.ttt {
   color: white;
   margin-top: 55px;
 }
-.play a {
+.ttt a {
   font-size: 34px;
   font-family: "Cosmica", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: white;
   text-decoration: none;
 }
-.play p {
+.ttt p {
   font-size: 20px;
   margin-top: 10px;
   line-height: 33px;
   font-weight: 500;
 }
-.play b {
+.ttt b {
   line-height: 40px;
   letter-spacing: 1px;
   color: white;
 }
 /* new section mail */
-.head2 {
+.heads {
   font-size: 35px;
   margin-top: 68px;
   background-color: #2f1c1c;
